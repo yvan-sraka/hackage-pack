@@ -56,7 +56,7 @@ https://github.com/haskell/cabal/issues/2641
 >             PD.extraLibDirs libraryBuildInfo
 >     } } } }
 
-It would be nice to remove this hook ot some point, e.g., if this RFC is merged
+It would be nice to remove this hook too some point, e.g., if this RFC is merged
 in Cabal https://github.com/haskell/cabal/issues/7906
 
 % rustBuildHook ::
